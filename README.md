@@ -1,4 +1,7 @@
 # hello-world
+
+---I am making some edits to the hello-world file. However, I do not intend to merge it with the master branch. Let's get going!
+
 This is my first repository; a takeaway from the GitHub tutorial.
 
 Hi there!
